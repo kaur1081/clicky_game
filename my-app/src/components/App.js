@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
-import Navbar from './Navbar';
-import Container from './Container';
-import Footer from './Footer';
-import Banner from './Banner';
+import Navbar from './components/Navbar';
+import Container from './components/Container';
+import Footer from './components/Footer';
+import Banner from './components/Banner';
 import images from '../images';
 
 class App extends Component {
