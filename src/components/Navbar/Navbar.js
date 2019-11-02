@@ -1,7 +1,7 @@
 import React from 'react';
 import './Navbar.css';
 
-const Navbar = props => (
+export const Navbar = props => (
   <div className="navbar ">
     <div className="left-div">Clicky Game</div>
     <div className={props.navMsgColor}>{props.navMessage}</div>
@@ -10,5 +10,3 @@ const Navbar = props => (
     </div>
   </div>
 );
-
-export default Navbar;

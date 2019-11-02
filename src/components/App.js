@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
-import Navbar from './components/Navbar';
-import Container from './components/Container';
-import Footer from './components/Footer';
-import Banner from './components/Banner';
+import { Navbar } from './Navbar';
+import { Container } from './Container';
+import { Footer } from './Footer';
+import { Banner } from './Banner';
 import images from '../images';
 
 class App extends Component {
@@ -119,7 +119,7 @@ class App extends Component {
           />
           <Banner />
           <Container
-            shake={state.shake}
+            shake={state.shake} 
             Avengers={state.allAvengers}
             clickEvent={this.clickEvent}
           />
