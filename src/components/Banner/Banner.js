@@ -1,5 +1,5 @@
 import React from 'react';
-import "./Banner.css";
+import './Banner.css';
 
 export const Banner = () => (
   <div className="banner">
@@ -10,8 +10,7 @@ export const Banner = () => (
     <br></br>
     <br></br>
     <br></br>
-    <br></br>
-    <h4>
+    <h4 className='topHead'>
       Click on an Avengers to earn points, but don't click on an image  more than once!
     </h4>
   </div>
