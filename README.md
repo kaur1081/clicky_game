@@ -12,6 +12,11 @@ Deploy Link for Clicky Game!
 - The process to view the script is available down here.
 
 
+## Screenshots
+![ Clcky Game! ]()
+
+Developed by: Karishma Hattar
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
