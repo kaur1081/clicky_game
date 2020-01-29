@@ -6,6 +6,11 @@
 Deploy Link for Clicky Game!
 (https://avengers007.herokuapp.com/)
 
+## Overview
+- This project is Create react App. We are building a game where you can click on the picture and it randomly changes. If you click same picture twice you are done.
+- Theme of my clicky game is Avengers.
+- The process to view the script is available down here.
+
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
