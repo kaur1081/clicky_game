@@ -2,9 +2,9 @@
   .banner{
     background-image: url("../../images/images.jpg") !important; 
     background-size: cover;
-    height:400px;
+    height:350px;
     background-size: auto 100%; 
-    background-position: center center;
+    background-position: center ;
     /* image-resolution: 100%; */
     text-align: center;
     color: rgb(189, 228, 228);

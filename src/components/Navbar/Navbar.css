@@ -3,7 +3,7 @@
     font-size: 18px;
     padding: 10px;
     width: 100%;
-    color: rgb(189, 228, 228);
+    color: rgb(204, 228, 228);
     z-index: 99;
   }
   
@@ -18,7 +18,7 @@
   
   .navbar div:first-child {
     letter-spacing: 1px;
-    font-weight: 900;
+    font-weight: 800;
   }
   
   .score {
