@@ -10,11 +10,13 @@
     image-resolution: 100%;
     text-align: center;
     color: rgb(229, 236, 236);
+    text-shadow: 2px 2px 4px yellowgreen;
     font-size: 30px; 
   }
   h4{
     position: relative;
     padding-top: 250px;
+
   }
   .banner:hover {
     opacity: 1.0;
@@ -26,3 +28,8 @@
       font-size: calc(10px + 14 * (100vw - 320px) / 800);
     }
   }
+  /* @media (min-width: 576px) {
+    h4{
+      padding-top: 300px;
+    }
+  } */
