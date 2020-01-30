@@ -15,7 +15,7 @@ Deploy Link for Clicky Game!
 ## Screenshots
 ![ Clcky Game! ](https://github.com/kaur1081/clicky_game/blob/master/src/images/bgscreenShot.jpg)
 
-## Developed by: Karishma Hattar
+## Developer: Karishma Hattar
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
