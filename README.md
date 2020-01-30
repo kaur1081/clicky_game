@@ -13,7 +13,7 @@ Deploy Link for Clicky Game!
 
 
 ## Screenshots
-![ Clcky Game! ]()
+![ Clcky Game! ](https://github.com/kaur1081/clicky_game/blob/master/src/images/bgscreenShot.jpg)
 
 ## Developed by: Karishma Hattar
 
